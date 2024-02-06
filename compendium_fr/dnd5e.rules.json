@@ -28,7 +28,13 @@
 			}
 		},
 		"Appendix D: Senses and Speeds": {
-			"name": "Annexe D : Sens et vitesses"
+			"name": "Annexe D : Sens et vitesses",
+			"pages": {
+				"Blindsight": {
+					"name": "Vision Aveugle",
+					"text": "<p>Un monstre aveugle peut percevoir son environnement sans compter sur la vue, dans un rayon spécifique.</p><p>Les créatures sans yeux, comme les grimlocks et les limons gris, ont généralement ce sens spécial, tout comme les créatures avec écholocation ou des sens accrus, comme les chauves-souris et les vrais dragons.</p><p>Si un monstre est naturellement aveugle, il a une note entre parenthèses à cet effet, indiquant que le rayon de sa vision aveugle définit la portée maximale de sa perception.</p>"
+				}
+			}
 		},
 		"Chapter 1: Beyond 1st Level": {
 			"name": "Chapitre 1 : Au-delà du niveau 1",
